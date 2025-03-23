@@ -46,6 +46,9 @@ body{
     background-color: #1A1653;
     color: #80ff67;
 }
+.disclaimer{
+    margin-top: 5%;
+}
 .disclaimer a{
     color: white;
     transition: 0.5s;
